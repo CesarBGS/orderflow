@@ -1,4 +1,8 @@
 # OrderFlow API
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 API REST para gerenciamento de pedidos desenvolvida em **.NET 8**, aplicando **Clean Architecture**, **CQRS com MediatR** e **autenticação JWT**, utilizando **SQL Server** e **Docker**.
 
